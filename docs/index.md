@@ -8,15 +8,13 @@ Building Tools and UI in Unreal Engine to enable in Editor or Runtime Clash Dete
 
 ### Prototype Demos
 
-Layer Based Clashing in Unreal
+[Layer Based Clashing in Unreal](https://youtu.be/mDB3jxcD21s)
 
-[![Foo](/clash.png)](https://youtu.be/mDB3jxcD21s?list=PLFityiRvjB2Ss1l7GkWc2-qYx-mVt1B8X)
 
-```
 
-```
+![](/Clash.png)
 
-Layer Based Sectioning in Unreal
+[Layer Based Sectioning in Unreal](https://youtu.be/_Mfo29FujCc)
 
 ![](/Section.png)
 

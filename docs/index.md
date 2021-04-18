@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## AEC Design Assistant Clash Detector
 
-You can use the [editor on GitHub](https://github.com/Magnetar-aec/skylab/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Building Tools and UI in Unreal Engine to enable in Editor or Runtime Clash Detection of Building projects.  Project Presentation Link; 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Prototype Demos
 
-### Markdown
+Layer Based Clashing in Unreal
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![[Clash](https://youtu.be/mDB3jxcD21s?list=PLFityiRvjB2Ss1l7GkWc2-qYx-mVt1B8X)](S:\Git\DesignReviewClashing\docs\Clash.png)
 
-```markdown
-Syntax highlighted code block
+Layer Based Sectioning in Unreal
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Magnetar-aec/skylab/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+gschleusner at gmail.com

@@ -2,9 +2,7 @@
 typora-root-url: ./
 ---
 
-## AEC Design Assistant Clash Detector
 
-Building Tools and UI in Unreal Engine to enable in Editor or Runtime Clash Detection of Building projects.  Project Presentation Link; 
 
 ### Prototype Demos
 
@@ -18,7 +16,9 @@ Building Tools and UI in Unreal Engine to enable in Editor or Runtime Clash Dete
 
 ![](/Section.png)
 
-)
+
+
+
 
 ## Support or Contact
 
